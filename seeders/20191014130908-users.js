@@ -6,12 +6,16 @@ module.exports = {
       {
         email: 'admin@gmail.com',
         password: 'rahasia',
-        name: 'Ademin'
+        name: 'Ademin',
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         email: 'jhon.doe@gmail.com',
         password: 'secret',
-        name: 'Jhon Doe'
+        name: 'Jhon Doe',
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
     ], {});
   },

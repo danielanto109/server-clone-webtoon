@@ -6,31 +6,43 @@ module.exports = {
       {
         images: 'https://via.placeholder.com/1080',
         id_episode: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       },
       {
         images: 'https://via.placeholder.com/1020',
         id_episode: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       },
       {
         images: 'https://via.placeholder.com/1020',
         id_episode: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       },      
       {
         images: 'https://via.placeholder.com/1020',
         id_episode: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       }, 
       {
         images: 'https://via.placeholder.com/1020',
         id_episode: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       }, 
       {
         images: 'https://via.placeholder.com/1020',
         id_episode: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
 
       },                   
     ], {});

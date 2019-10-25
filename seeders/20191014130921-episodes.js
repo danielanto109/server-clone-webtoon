@@ -31,19 +31,25 @@ module.exports = {
         title: 'Webtoon 5',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 22,
-        webtoon_id: 2
+        webtoon_id: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 6',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
-        favorite_count: 22,
-        webtoon_id: 2
+        favorite_count: 12,
+        webtoon_id: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 4',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
-        favorite_count: 22,
-        webtoon_id: 1
+        favorite_count: 44,
+        webtoon_id: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       
     ], {});
