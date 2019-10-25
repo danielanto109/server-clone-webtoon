@@ -7,25 +7,33 @@ module.exports = {
         title: 'Webtoon 1',
         description: 'lorem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 42,
-        webtoon_id: 1
+        webtoon_id: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 2',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 22,
-        webtoon_id: 1
+        webtoon_id: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 3',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 22,
-        webtoon_id: 1
+        webtoon_id: 1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 4',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 22,
-        webtoon_id: 2
+        webtoon_id: 2,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         title: 'Webtoon 5',

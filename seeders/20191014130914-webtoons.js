@@ -8,14 +8,18 @@ module.exports = {
         title: 'Webtoon 1',
         description: 'lorem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 42,
-        create_by:1
+        create_by:1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         img_banner: 'https://via.placeholder.com/1020',
         title: 'Webtoon 2',
         description: '1 dosdp orem ipsum dkfjdsofdsjfosdjfodsf',
         favorite_count: 22,
-        create_by:1
+        create_by:1,
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
     ], {});
   },
